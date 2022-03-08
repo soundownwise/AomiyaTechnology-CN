@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <TriggernometryExport Version="1">
-  <ExportedFolder Id="eb1fe53e-7a21-495b-a264-fabac1372d9f" Name="TTS团辅（6.0）" Enabled="false">
+  <ExportedFolder Id="eb1fe53e-7a21-495b-a264-fabac1372d9f" Name="TTS（6.0）" Enabled="false">
     <Folders />
     <Triggers>
       <Trigger Enabled="true" Source="FFXIVNetwork" Name="连环计" Id="1a0ae2fd-9b40-44bc-b72c-f1a2e47616f1" RegularExpression="^26\|[^\|]+?\|4C5\|[^\|]+?\|(?&lt;time&gt;[^\|]+?)\|.{8}\|(?&lt;caster&gt;[^\|]+?)\|.{8}\|(?&lt;target&gt;[^\|]+?)\|">
