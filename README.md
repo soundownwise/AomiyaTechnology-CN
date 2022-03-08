@@ -1,1 +1,1 @@
-ACT triggernometry
+ACT Triggernometry
